@@ -1,0 +1,13 @@
+{
+    "name": "表盘自定义工具社区源",
+    "icon": "icon.png",
+    "version": "1.0.0",
+    "description": "安装以将表盘自定义工具中的资源作为社区源导入AstroBox",
+    "author": "PPN-Design",
+    "website": "mibandtool.club",
+    "entry": "astrobox_ng_plugin_template_rust.wasm",
+    "wasi_version": 2,
+    "api_level": 3,
+    "permissions": ["register_provider"],
+    "additional_files": []
+}
