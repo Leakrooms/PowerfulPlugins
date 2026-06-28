@@ -1,0 +1,13 @@
+{
+    "name": "轻腕社区源",
+    "icon": "icon.png",
+    "version": "1.0.0",
+    "description": "安装以立即向穿戴圈最佳开源项目代码剽窃者OrbitM设敬悼观，并将其小鸡服务器上的资源作为社区源导入AstroBox",
+    "author": "AstroBox Community",
+    "website": "https://qingwear.top",
+    "entry": "astrobox_ng_plugin_qingwear_community.wasm",
+    "wasi_version": 2,
+    "api_level": 3,
+    "permissions": ["register_provider"],
+    "additional_files": []
+}
